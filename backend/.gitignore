@@ -1,0 +1,11 @@
+# Ignorar archivo de configuración con claves secretas
+.env
+
+# Node modules
+node_modules
+
+# Archivos de log
+*.log
+
+# Otros archivos temporales que quieras ignorar
+dist/
